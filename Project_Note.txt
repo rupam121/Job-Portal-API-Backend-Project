@@ -1,0 +1,43 @@
+
+1.setup file
+2.setup server
+3.mvc setup
+ i.model
+ ii.view
+ iii.server
+
+scalable & rebust application can build.
+
+4.Connect with mongoDB
+
+5.API testing with postman
+
+i. core & morgan - use for request status
+
+
+Authentication:
+
+API KEYS- server to server communication
+
+JWT- stateless authentication in web/apps without store credential.
+
+OAUTH- want to login as 3rd party servises like fb, google etc.
+
+
+
+
+
+
+
+Your Job Portal must have:
+
+Authentication
+Role-based access
+Pagination
+Filtering
+Aggregation
+Error middleware
+Proper validation
+Deployment
+Clean README
+Postman collection
