@@ -43,7 +43,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:8080",
+        url: "https://job-portal-app-wcw6.onrender.com/",
       },
     ],
     components: {
