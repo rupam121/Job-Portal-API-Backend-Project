@@ -106,5 +106,5 @@ app.listen(PORT, () => {
     `Node server running in ${process.env.DEV_MODE} mode on port ${PORT}`
       .bgCyan.white
   );
-  console.log(`Swagger docs: http://localhost:${PORT}/api-docs`.yellow);
+// console.log(`Swagger docs: http://localhost:${PORT}/api-docs`.yellow);
 });
